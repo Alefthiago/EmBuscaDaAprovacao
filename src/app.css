@@ -1,0 +1,15 @@
+body{
+    background-color: #7FFFD4;
+}
+canvas{
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60%;
+    height: 80%;
+    border-radius: 5px;
+    border:3px solid black;
+    box-shadow: 4px 4px 0 5px black;
+}
