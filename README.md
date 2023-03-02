@@ -2,6 +2,24 @@
 
 Este template, foi desenvolvido, com Vite + Svelte
 
+#Como jogar
+
+Após clonar o repositório abra o diretório no CMD e utilize o comando:
+
+```
+npm install
+```
+ou
+```
+npm i
+```
+Depois que instalar utilize:
+
+```
+npm run dev
+```
+Abra o localhost em seu browser
+
 ## Recommended IDE Setup
 
 [VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
